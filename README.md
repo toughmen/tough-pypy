@@ -6,9 +6,9 @@
 
     talincode/tough-pypy
     
-## 包含模块
+## 默认包含模块
 
-    supervisor
+    bottle
     Mako
     Beaker
     MarkupSafe
@@ -24,3 +24,11 @@
     service_identity
     MySQL-python
     SQLAlchemy
+    pyzmq
+    txzmq
+    beanstalkc
+    pybeanstalk
+    python-memcached
+    txyam
+    psutil
+    IPy
